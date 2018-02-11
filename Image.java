@@ -20,6 +20,10 @@ public class Image {
         drawline(250, 250, 200, 450);
         drawline(250, 250, 50, 300);
         drawline(250, 250, 450, 200);
+        drawline(250, 250, 400, 400);
+        drawline(250, 250, 100, 100);
+        drawline(250, 250, 100, 400);
+        drawline(250, 250, 400, 100);
         /*drawline(250, 250, 100, 250);
         drawline(250, 250, 400, 250);
         drawline(250, 250, 175, 380);
